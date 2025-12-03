@@ -1,16 +1,23 @@
-## Hi there 👋
+# Maliha Bathool C - Developer Portfolio
 
-<!--
-**maliha63/maliha63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Maliha, a passionate web and app developer. I specialize in creating multi-page websites, PWA apps, gaming websites, and mobile apps with clean, responsive designs.
 
-Here are some ideas to get you started:
+## Skills & Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Web Apps & PWA Apps** – Fully functional and responsive.
+* **Multipage Websites & Clones** – From design to deployment.
+* **Gaming & Interactive Websites**
+* **Mobile Apps** – Practical apps for end users.
+
+## Technologies
+
+HTML | CSS | Bootstrap | JavaScript | React | Tailwind | Canva
+
+## Fun Fact
+
+I love turning creative ideas into functional apps and websites, and I enjoy exploring gamified projects for fun!
+
+## Contact
+
+📧 [malihabathoolc@gmail.com](mailto:malihabathoolc@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/malihabathoolc/)
