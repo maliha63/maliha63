@@ -2,11 +2,11 @@
 
 I'm Maliha, a web development learner from India.
 
-I enjoy creating clean and simple experiences across different types of projects. I work with HTML, CSS, Bootstrap, and JavaScript, and I’ve built PWA apps, web apps, mobile-friendly apps, multi-page websites, gaming websites, and various clone projects using modern and emerging tools.
+I enjoy creating clean and simple experiences across different types of projects. I work with HTML, CSS, Bootstrap, and JavaScript, and I’ve built PWA apps, web apps, multi-page websites, gaming websites, and various clone projects using modern and emerging tools.
 
 Right now, I’m focusing on improving my JavaScript skills, making responsive layouts.
 
-In my pinned repos, you’ll find a mix of apps, website clones, experiments, and projects I built while learning. More will be added as I continue exploring and improving every day.
+In my pinned repos, you’ll find a mix of web apps, website clones, experiments, and projects I built while learning. More will be added as I continue exploring and improving every day.
 
 ## 📫 Contact
 
