@@ -1,20 +1,25 @@
-# Hey there! 👋
+# Ah, a curious visitor 👋
 
-I'm Maliha, a web development learner from India.
+I'm Maliha, a frontend developer.
 
-I enjoy creating clean and simple experiences across different types of projects. I work with HTML, CSS, Bootstrap, and JavaScript, and I’ve built PWA apps, web apps, multi-page websites, gaming websites, and various clone projects using modern and emerging tools.
+I like building clean and simple interfaces. 
 
-Right now, I’m focusing on improving my JavaScript skills, making responsive layouts.
+Lately I’ve been spending a lot of time with React and its ecosystem, while also trying to make my code cleaner, more reusable, and a little more optimized. TypeScript is probably next on the list.
 
-In my pinned repos, you’ll find a mix of web apps, website clones, experiments, and projects I built while learning. More will be added as I continue exploring and improving every day.
+💻 Stuff I Use to Build Things
+
+HTML • CSS • Bootstrap • JavaScript  
+React • Tailwind CSS • Sass  
+Redux Toolkit
+
+In my pinned repos, you’ll find a mix of PWAs, web apps, multi-page websites, gaming sites, and a few clone projects I built while learning. More projects will appear here as I keep building and experimenting.
 
 ## 📫 Contact
 
 * Email: [malihabathoolc@gmail.com](mailto:malihabathoolc@gmail.com)
 * LinkedIn: [https://www.linkedin.com/in/malihabathoolc/](https://www.linkedin.com/in/malihabathoolc/)
 
-## Fun Facts
+## ⚡ Fun Facts
 
-* I enjoy clean and minimal UI
-* I learn fastest by building real projects
-* I like trying new tools and improving my workflow
+• I question EVERY concept until it finally makes sense.
+• I enjoy turning confusing errors into “Ohhh that’s why”.
