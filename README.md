@@ -22,5 +22,4 @@ In my pinned repos, you’ll find a mix of PWAs, web apps, multi-page websites, 
 ## ⚡ Fun Facts
 
 • I question EVERY concept until it finally makes sense.
-
 • I enjoy turning confusing errors into “Ohhh that’s why”.
