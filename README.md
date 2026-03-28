@@ -10,7 +10,7 @@ Lately I’ve been spending a lot of time with React and its ecosystem, while al
 
 HTML • CSS • Bootstrap • JavaScript  
 React • Tailwind CSS • Sass  
-Redux Toolkit
+Redux Toolkit •GSAP
 
 In my pinned repos, you’ll find a mix of PWAs, web apps, multi-page websites, gaming sites, and a few clone projects I built while learning. More projects will appear here as I keep building and experimenting.
 
