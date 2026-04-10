@@ -4,8 +4,8 @@ I'm Maliha, a frontend developer.
 
 I like building clean and simple interfaces. 
 
-Lately I’ve been spending a lot of time with React and its ecosystem, while also trying to make my code cleaner, more reusable, and a little more optimized. TypeScript is probably next on the list.
-
+Lately I’ve been spending a lot of time with React and its ecosystem, while also trying to make my code cleaner, more reusable, and a little more optimized.
+ 
 ## 💻 Stuff I Use to Build Things
 
 | Category | Tools & Technologies |
