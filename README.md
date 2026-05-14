@@ -8,8 +8,8 @@ Currently deepening my work with TypeScript and MUI.
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | JS · TS · HTML · CSS |
-| **Libraries** | React · RTK · Zustand · React Hook Form · Formik · Zod |
+| **Languages** | HTML · CSS · JS · TS |
+| **Libraries** | React · RTK · Zustand · TanStack Query · RHF |
 | **Styling** | Tailwind · MUI · Bootstrap · Sass · GSAP |
 | **Tools** | Git · GitHub · Vercel · Netlify |
 
