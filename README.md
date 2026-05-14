@@ -1,4 +1,4 @@
-# Maliha
+# Hey, I'm Maliha 👋
 Frontend developer. I build clean interfaces with React.
 Currently deepening my work with TypeScript and MUI.
 
