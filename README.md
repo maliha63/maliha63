@@ -9,7 +9,7 @@ Currently deepening my work with TypeScript and MUI.
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | HTML · CSS · JS · TS |
-| **Libraries** | React · RTK · Zustand · TanStack Query ·SWR · RHF |
+| **Libraries** | React · RTK · Zustand · TanStack Query · SWR · RHF |
 | **Styling** | Tailwind · MUI · Bootstrap · Sass · GSAP |
 | **Tools** | Git · GitHub · Vercel · Netlify |
 
