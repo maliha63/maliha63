@@ -1,7 +1,5 @@
 # Hey, I'm Maliha 👋
-Frontend developer. I build clean interfaces with React.
-Currently deepening my work with TypeScript and MUI.
-
+Frontend developer. I build clean interfaces with modern frontend technologies.
 ---
 
 ## 🛠️ Stack
@@ -10,7 +8,7 @@ Currently deepening my work with TypeScript and MUI.
 | :--- | :--- |
 | **Languages** | HTML · CSS · JS · TS |
 | **Libraries** | React · RTK · Zustand · TanStack Query · SWR · RHF |
-| **Styling** | Tailwind · MUI · Bootstrap · Sass · GSAP |
+| **Styling** | Tailwind · MUI · Bootstrap · Sass · GSAP · Motion |
 | **Tools** | Git · GitHub · Vercel · Netlify |
 
 ---
