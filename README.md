@@ -8,8 +8,8 @@ Frontend developer. I build clean interfaces with modern frontend technologies.
 | :--- | :--- |
 | **Languages** | HTML · CSS · JS · TS |
 | **Libraries** | React · RTK · Zustand · TanStack Query · SWR · RHF |
-| **Styling** | Tailwind · MUI · Bootstrap · Sass · GSAP · Motion |
-| **Tools** | Git · GitHub · Vercel · Netlify |
+| **Styling** | Tailwind · MUI · Shadcn · Bootstrap · Sass · GSAP · Motion |
+| **Tools** | Git · GitHub · Vercel · Netlify · Render |
 
 ---
 
